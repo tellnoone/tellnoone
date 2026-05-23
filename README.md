@@ -69,3 +69,6 @@ I'm actively exploring opportunities and would welcome conversations about data 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
 
 </div>
+
+Contact:
+📧 aman.bhardawj@gmail.com
