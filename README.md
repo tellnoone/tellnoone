@@ -92,17 +92,12 @@ I'm seeking Data Science roles where I can apply machine learning to solve compl
 
 - Predictive analytics and statistical modeling
 - ML engineering and production systems
-- Data science in fintech, healthcare, or scientific research
+- Data science in fintech, healthcare, or insurance.
 - Cross-functional teams that value rigorous methodology and clear communication
 
 ## Get In Touch
 
 I'm actively exploring opportunities and would welcome conversations about data science roles, collaborations, or technical discussions.
-
-**Contact:**  
-📧 aman.bhardawj@gmail.com  
-💼 [LinkedIn](YOUR_LINKEDIN_URL)  
-📍 Durham, UK
 
 ---
 
