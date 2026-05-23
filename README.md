@@ -6,7 +6,7 @@ I build production-ready machine learning models and translate complex datasets 
 
 ## What I Do
 
-I specialize in developing end-to-end ML solutions—from data preprocessing and feature engineering through model deployment and monitoring. My work focuses on delivering measurable business impact through rigorous statistical modeling and scalable data architectures.
+I specialize in developing end-to-end ML solutions, from data preprocessing and feature engineering through model deployment and monitoring. My work focuses on delivering measurable business impact through rigorous statistical modeling and scalable data architectures.
 
 **Technical Stack:**  
 Python (scikit-learn, pandas, NumPy, TensorFlow, Matplotlib, Seaborn) • R (tidyverse, caret, ggplot2) • SQL • Power BI • Tableau • Azure Databricks • Git
@@ -53,7 +53,7 @@ I'm seeking Data Science roles where I can apply machine learning to solve compl
 
 - Predictive analytics and statistical modeling
 - ML engineering and production systems
-- Data science in fintech, healthcare, or insurance.
+- Data science in fintech, healthcare, or insurance
 - Cross-functional teams that value rigorous methodology and clear communication
 
 ## Get In Touch
