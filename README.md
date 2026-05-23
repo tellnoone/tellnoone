@@ -31,45 +31,6 @@ Python (scikit-learn, pandas, NumPy, TensorFlow, Matplotlib, Seaborn) • R (tid
 - Created Power BI dashboards with optimized DAX expressions tracking TAT, Delinquency, and CSP metrics
 - Led data standardization initiative, developing semantic tables that enhanced cross-departmental data accessibility by 35%
 
-## Featured Projects
-
-### 🪐 Extraterrestrial Life Detection Through Large-Scale Data Analysis
-*Durham University Dissertation | Ongoing*
-
-Applying advanced machine learning algorithms and signal processing techniques to analyze massive astronomical datasets from space telescopes and observational surveys. Developing scalable data pipelines to process terabyte-scale data and identify patterns potentially indicative of extraterrestrial biosignatures.
-
-**Technologies:** Python, Signal Processing, Scalable Data Architectures
-
----
-
-### 🍷 Wine Quality Prediction Using Machine Learning
-*Machine Learning Course Project*
-
-Built comprehensive predictive modeling pipeline analyzing 6,497 wine samples across 11 physicochemical properties to predict quality scores.
-
-**Key Achievements:**
-- Implemented and compared Ridge, Lasso, Elastic Net regression with 10-fold cross-validation
-- Optimized Random Forest model achieving R² of 0.386 and RMSE of 0.673
-- Performed extensive EDA including outlier detection, correlation analysis, and data cleaning (removed 1,177 duplicates)
-- Identified alcohol content, volatile acidity, and density as primary quality predictors
-
-**Technologies:** Python, scikit-learn, pandas, matplotlib, seaborn
-
----
-
-### 🧬 Breast Cancer Cell Classification via Unsupervised Learning
-*Data Visualization & Unsupervised Learning Course Project*
-
-Analyzed 569 cell nuclei observations to identify distinct cancer cell morphological phenotypes using advanced clustering techniques.
-
-**Key Achievements:**
-- Addressed complex missing data patterns (52% in texture, 13% in smoothness) using MICE (Multiple Imputation by Chained Equations)
-- Applied PCA dimensionality reduction: compressed 10 features to 2 principal components retaining 80.4% variance
-- Implemented K-means and Hierarchical (Ward's) clustering algorithms
-- Achieved silhouette score of 0.441, successfully identifying 3 distinct morphological phenotypes
-
-**Technologies:** R, tidyverse, caret, ggplot2
-
 ## Education
 
 **Master of Science in Data Science** | Durham University, UK | *2025-2026*  
