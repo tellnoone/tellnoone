@@ -33,7 +33,7 @@ Python (scikit-learn, pandas, NumPy, TensorFlow, Matplotlib, Seaborn) • R (tid
 
 ## Education
 
-**Master of Science in Data Science** | Durham University, UK | *2025-2026*  
+**Master in Data Science** | Durham University, UK | *2025-2026*  
 *Dissertation: Large-scale data analysis for extraterrestrial life detection*
 
 **Bachelor of Technology in Mechanical Engineering** | Punjab Engineering College, India | *2018-2022*
